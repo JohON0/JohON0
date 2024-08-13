@@ -12,5 +12,6 @@
 
 ### Статистика
 - 🛠️ **Языки программирования**: 
-  - <img src="https://tiniatov.ru/wp-content/uploads/a/f/c/afc39d2488aaf2a9c242ca3d23a128dd.png" alt="Java" width="20" height="20">
-  - <img src="https://beecoder.org/media/logo/python_beecoder.org.png" alt="Python (soon)" width="20" height="20">
+  - <img src="https://tiniatov.ru/wp-content/uploads/a/f/c/afc39d2488aaf2a9c242ca3d23a128dd.png" alt="Java" width="20" height="20"> Java
+  - <img src="https://beecoder.org/media/logo/python_beecoder.org.png" alt="Python (soon)" width="20" height="20"> Python (soon)
+  - 
