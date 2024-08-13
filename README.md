@@ -8,7 +8,7 @@ I am educated in **Java** and **Python** and strive to develop in programming. I
 - <img src="https://i.imgur.com/u09JWOi.png" alt="paragone" width="20" height="20"> [Paragone Obfuscator](https://discord.gg/JujjcWg9).
 
 ### Contacts:
-- 💬 Discord: [Ваш Discord](https://discord.com/users/645149664911425557)
+- 💬 Discord: [click](https://discord.com/users/645149664911425557)
 
 ## Stats:
 - 🛠️ **Programming**: 
@@ -17,5 +17,5 @@ I am educated in **Java** and **Python** and strive to develop in programming. I
 
 
 ## GitHub Stats
-![My Stats](https://github-readme-stats.vercel.app/api?username=JohON0&show_icons=true&theme=radical)
-![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JohON0&layout=compact&theme=radical)
+![My Stats](https://github-readme-stats.vercel.app/api?username=JohON0&show_icons=true&theme=transparent)
+![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JohON0&layout=compact&theme=transparent)
