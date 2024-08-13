@@ -14,6 +14,6 @@
 - 🛠️ **Языки программирования**: 
   - <img src="https://cdn.coursehunter.net/category/java.png" alt="Java" width="20" height="20"> Java
   - <img src="https://beecoder.org/media/logo/python_beecoder.org.png" alt="Python (soon)" width="20" height="20"> Python (soon)
+## GitHub Статистика
 ![Ваши статистики](https://github-readme-stats.vercel.app/api?username=JohON0&show_icons=true&theme=radical)
-
 ![Ваши языки](https://github-readme-stats.vercel.app/api/top-langs/?username=JohON0&layout=compact&theme=radical)
