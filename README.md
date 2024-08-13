@@ -1,4 +1,4 @@
-## 👋 Привет, я [Ваше Имя]!
+## 👋 Привет, я Джохан!
 
 ### Обо мне
 Я изучаю **Java** и **Python**☕️ и стремлюсь развиваться в программировании. В данный момент работаю над проектом **Centric Client**.
@@ -12,5 +12,5 @@
 
 ### Статистика
 - 🛠️ **Языки программирования**: 
-  - [Java](https://tiniatov.ru/wp-content/uploads/a/f/c/afc39d2488aaf2a9c242ca3d23a128dd.png)
-  - [Python](https://beecoder.org/media/logo/python_beecoder.org.png)
+  - <img src="https://tiniatov.ru/wp-content/uploads/a/f/c/afc39d2488aaf2a9c242ca3d23a128dd.png" alt="Java" width="20" height="20">
+  - <img src="https://beecoder.org/media/logo/python_beecoder.org.png" alt="Python (soon)" width="20" height="20">
