@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/username/projectname/commit/img.png)
+![]([https://raw.githubusercontent.com/username/projectname/commit/img.png](https://i.imgur.com/fahzBw3.jpeg))
 
 ## 👋 Hi, I`m JohON0!
 
