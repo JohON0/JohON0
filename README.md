@@ -1,4 +1,4 @@
-![Profile Image](https://i.imgur.com/fahzBw3.jpeg =50%)
+![Profile Image](https://i.imgur.com/fahzBw3.jpeg)
 
 ## 👋 Hi, I`m JohON0!
 
