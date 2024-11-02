@@ -1,4 +1,4 @@
-![]([https://raw.githubusercontent.com/username/projectname/commit/img.png](https://i.imgur.com/fahzBw3.jpeg))
+![Profile Image](https://i.imgur.com/fahzBw3.jpeg)
 
 ## 👋 Hi, I`m JohON0!
 
@@ -16,7 +16,6 @@ I am educated in **Java** and **Python** and strive to develop in programming. I
 - 🛠️ **Programming**: 
   - <img src="https://cdn.coursehunter.net/category/java.png" alt="Java" width="20" height="20"> Java
   - <img src="https://beecoder.org/media/logo/python_beecoder.org.png" alt="Python (soon)" width="20" height="20"> Python (soon)
-
 
 ## GitHub Stats
 ![My Stats](https://github-readme-stats.vercel.app/api?username=JohON0&show_icons=true&theme=transparent)
