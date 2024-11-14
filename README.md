@@ -1,5 +1,3 @@
-![Profile Image](https://i.imgur.com/fahzBw3.jpeg)
-
 ## 👋 Hi, I`m JohON0!
 
 ### My bio:
