@@ -4,8 +4,8 @@
 I am educated in **Java** and **Python** and strive to develop in programming. I am currently working on the **Hynix Client** project.
 
 ### My Works:
-- <img src="https://i.imgur.com/0jsHcqo.png" alt="centric" width="20" height="20"> [Hynix Client](https://discord.gg/JHYHqMUsYT).
-- <img src="https://i.imgur.com/u09JWOi.png" alt="paragone" width="20" height="20"> [Paragone Obfuscator (closed)]().
+- <img src="https://i.imgur.com/XFhDW6g.png" alt="hynix" width="20" height="20"> [Hynix Client](https://discord.gg/JHYHqMUsYT).
+- <img src="https://i.imgur.com/0jsHcqo.png" alt="centric" width="20" height="20"> [Centric Client (closed)]().
 
 ### Contacts:
 - 💬 Discord: [click](https://discord.com/users/645149664911425557)
