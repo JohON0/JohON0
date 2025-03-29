@@ -1,7 +1,7 @@
 ## 👋 Hi, I`m JohON0!
 
 ### My bio:
-I am educated in **Java** and **Python** and strive to develop in programming. I am currently working on the **Hynix Client** project.
+I am educated in **Java** and **Python** and strive to develop in programming. I am currently working on the **Centric Client** project.
 
 ### My Works:
  [Centric Client | Возвращение](https://discord.gg/JHYHqMUsYT).
